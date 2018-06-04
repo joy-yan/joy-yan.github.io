@@ -3,24 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://joy-yan.github.io/post/hello/</loc>
-    <lastmod>2018-06-03T11:49:13-07:00</lastmod>
+    <loc>https://joy-yan.github.io/tutorials/mlft_01/</loc>
+    <lastmod>2018-06-03T14:37:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joy-yan.github.io/post/welcome/</loc>
+    <lastmod>2018-06-03T14:13:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joy-yan.github.io/about/</loc>
+    <lastmod>2018-06-03T14:01:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joy-yan.github.io/portfolio/</loc>
+    <lastmod>2018-06-03T14:01:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joy-yan.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joy-yan.github.io/tags/life/</loc>
+    <lastmod>2018-06-03T14:13:20-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joy-yan.github.io/categories/machine-learning/</loc>
+    <lastmod>2018-06-03T14:13:20-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://joy-yan.github.io/</loc>
-    <lastmod>2018-06-03T11:49:13-07:00</lastmod>
+    <lastmod>2018-06-03T14:37:05-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://joy-yan.github.io/post/</loc>
-    <lastmod>2018-06-03T11:49:13-07:00</lastmod>
+    <lastmod>2018-06-03T14:13:20-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://joy-yan.github.io/tags/</loc>
+    <lastmod>2018-06-03T14:13:20-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joy-yan.github.io/tutorials/</loc>
+    <lastmod>2018-06-03T14:37:05-07:00</lastmod>
     <priority>0</priority>
   </url>
   
